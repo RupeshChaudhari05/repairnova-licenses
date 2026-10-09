@@ -91,5 +91,20 @@
             "price": 3999
         }
     ],
-    "licenses": []
+    "licenses": [
+        {
+            "key": "RN-C1EADB5B8E76",
+            "customer": "Rainbow",
+            "plan": "starter",
+            "starts": "2026-10-09",
+            "expires": "2027-10-08",
+            "limits": {
+                "jobsheets": 3000,
+                "invoices": 3000,
+                "branches": 0,
+                "users": 0
+            },
+            "sig": "H4+C/Y7EdzW94zTOwnvr6cNfCdXl4xHAoUEHXOU6Wrp0vpw+/obGAd9sOnGbVUIPV85q/1TaaISSgOEjdrl+Cb18vO9LBVDXChfBTj8WbxvCNUHNoq3CTVBnZBSMj4ThnyOaewx10BLCH1x9zUoOYf20LWN1zNhxuIHHDueSINb52Si+5je/TtDEwmkhGRGTwLrZMddZx3viHO0KM067/7J3QVwjyeItDb5ngOygmDhnCaH4fvTS+i8m/Tj8+1KPNLt6a8qHITck0+GwzaTa39Ledf2IFPgbATehUHciCdQiaK9toZ8mS+iwWdt6480LSwnDcgpP5Gtfx3jqiDaIkw=="
+        }
+    ]
 }
