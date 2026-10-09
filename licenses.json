@@ -1,0 +1,95 @@
+{
+    "product": "RepairNova",
+    "version": 1,
+    "announcement": "",
+    "plans": [
+        {
+            "id": "free",
+            "name": "Free",
+            "quarterly": 0,
+            "yearly": 0,
+            "jobsheets": 50,
+            "invoices": 50,
+            "branches": 1,
+            "users": 3,
+            "per": "month",
+            "features": [
+                "All features included",
+                "Job sheets, billing & GST",
+                "Inventory & quotations",
+                "WhatsApp updates",
+                "Free forever — no card"
+            ]
+        },
+        {
+            "id": "starter",
+            "name": "Starter",
+            "quarterly": 2499,
+            "yearly": 7999,
+            "jobsheets": 3000,
+            "invoices": 3000,
+            "branches": 0,
+            "users": 0,
+            "per": "year",
+            "features": [
+                "All features included",
+                "Unlimited branches & users",
+                "Repairs + sales billing in one plan",
+                "SMS & e-mail automation",
+                "WhatsApp & e-mail support"
+            ]
+        },
+        {
+            "id": "pro",
+            "name": "Pro",
+            "quarterly": 4999,
+            "yearly": 15999,
+            "jobsheets": 10000,
+            "invoices": 10000,
+            "branches": 0,
+            "users": 0,
+            "per": "year",
+            "popular": true,
+            "features": [
+                "Everything in Starter",
+                "Website + online shop builder",
+                "Multi-branch reports",
+                "Free data import from old software",
+                "Priority support, same-day reply"
+            ]
+        },
+        {
+            "id": "enterprise",
+            "name": "Enterprise",
+            "quarterly": 9999,
+            "yearly": 29999,
+            "jobsheets": 0,
+            "invoices": 0,
+            "branches": 0,
+            "users": 0,
+            "per": "year",
+            "features": [
+                "Everything in Pro",
+                "Unlimited job sheets & invoices",
+                "Your own domain & server setup",
+                "Staff training session",
+                "Custom changes on request"
+            ]
+        }
+    ],
+    "topups": [
+        {
+            "name": "+1,000 job sheets",
+            "price": 999
+        },
+        {
+            "name": "+1,000 invoices",
+            "price": 499
+        },
+        {
+            "name": "+5,000 job sheets & 5,000 invoices",
+            "price": 3999
+        }
+    ],
+    "licenses": []
+}
